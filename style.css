@@ -8,6 +8,7 @@ body {
 	text-align: center;
 }
 .wyndtext {
+	margin: 0px;
 	padding: 5px;
 	color: #ff00d0;
 	text-decoration: underline;
