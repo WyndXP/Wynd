@@ -1,14 +1,10 @@
-/*body {
- margin: 0px;
- padding: 0px;
-}*/
-.container {
-  background-color: lightblue;
-  border: 20px solid blue;
-  position: relative;
+body {
+	margin: 0;
+	padding: 0;
 }
 .welcome {
-  background-color: lightblue;
-  border: 20px solid blue;
-  font-size: 2vw;
+	background-color: black;
+	color: #ff00d0;
+	text-allign: center;
+	padding: 10px 0 10px 10px;
 }
