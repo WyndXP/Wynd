@@ -1,12 +1,14 @@
 body {
-	margin: 0;
-	padding: 0;
+	margin: 0px;
+	padding: 0px;
 }
 .welcome {
+	margin: 0px;
 	background-color: #0a0008;
 	text-align: center;
 }
 .wyndtext {
+	padding: 5px;
 	color: #ff00d0;
 	text-decoration: underline;
 }
